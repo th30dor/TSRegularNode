@@ -1,0 +1,7 @@
+node id
+ip address of the server
+udp port where the server listens for temperatures
+admin or regular
+number of nodes
+tcp port for communicating with the user 
+upd port for communication with the user/other nodes (new leader for the user / communication with the other nodes)
